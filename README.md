@@ -180,3 +180,19 @@ The dashboard is fully interactive with **date slicers** and **category filters*
 * **Prime & Mini** vehicles contribute significantly to revenue
 * Most cancellations occur due to **driver-related issues**
 * Ratings across vehicle types are consistently around **4.0**
+
+
+---
+
+## 👨‍💻 Author
+
+**Patel Vandan**
+- GitHub: https://github.com/Vandan160305
+- LinkedIn: https://www.linkedin.com/in/patel-vandan-6413822b4/
+- Email: vandan160305@gmail.com
+
+
+
+
+---
+  
